@@ -79,7 +79,7 @@ main {
 /* Карточка новости (мультяшный стиль) */
 .news-card {
   flex: 0 0 260px;
-  height: 150px;
+  height: auto;
   background: linear-gradient(180deg, #ffffff, #fffaf0);
   padding: 14px;
   border-radius: 16px;
